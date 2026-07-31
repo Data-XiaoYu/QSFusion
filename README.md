@@ -88,3 +88,7 @@ python test.py --ckpt_path ./weights/qsfusion_final.pth --vi_path ./path/to/vi -
 ```text
 weights/qsfusion_final.pth
 ```
+
+## License
+
+This project is released under the [MIT License](https://github.com/Data-XiaoYu/QSFusion/blob/main/LICENSE).
